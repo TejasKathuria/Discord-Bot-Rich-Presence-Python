@@ -1,6 +1,8 @@
 import discord
 from discord.ext import commands
 
+//Change below's prefix with your prefix
+
 client = commands.Bot(command.prefix = 'ENTER YOUR PREFIX')
 
 @client.event
